@@ -1,38 +1,31 @@
 .App {
   text-align: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(198deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 7%, rgba(29, 2, 158, 1) 21%, rgb(42, 1, 178) 40%, rgb(41, 0, 176) 57%, rgba(37, 0, 161, 1) 79%, rgba(28, 0, 120, 1) 93%, rgba(0, 0, 0, 1) 100%);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* ----------------------------------------------------- */
+
+.flex_button_section button {
+  margin: 10px 8px;
+  padding: 10px 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/* ----------------------------------------------------- */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.listItem_div {
+  background-color: rgba(77, 54, 229, 0.3);
   color: white;
+  border-radius: 10px;
+  width: 250px;
+  height: 400px;
+  padding: 10px 20px;
+  box-shadow: 1px 4px 15px 2px rgba(74, 74, 74, 0.2);
+  margin: 30px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.flex_moviecards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
