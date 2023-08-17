@@ -1,7 +1,7 @@
 # MovieDataBase
 build with React.js
 
-https://lambent-lebkuchen-c5878c.netlify.app/
+https://moviedatabase-c5878c.netlify.app/
 
 Preview
 
