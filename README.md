@@ -1,6 +1,8 @@
 # MovieDataBase
 build with React.js
 
+use Filter
+
 https://moviedatabase-c5878c.netlify.app/
 
 Preview
