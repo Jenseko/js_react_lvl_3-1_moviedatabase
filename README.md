@@ -1,7 +1,10 @@
 # MovieDataBase
-build with React.js
 
-use Filter
+### build with 
+React.js
+
+### Feature
+use Filter 
 
 https://moviedatabase-c5878c.netlify.app/
 
